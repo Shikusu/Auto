@@ -33,6 +33,6 @@ Avant d'utiliser ce script d'automatisation, assurez-vous d'avoir installé les 
 
    ```bash
        git clone https://github.com/Shikusu/Auto.git
-2. Clonez ce dépôt vers votre ordinateur :
+2. Exécutez le script d'automatisation :
        python Config.py
 3. Suivez les instructions et fournissez les informations requises lorsque cela vous est demandé.  
